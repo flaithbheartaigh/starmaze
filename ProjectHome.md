@@ -1,0 +1,1 @@
+This SDL Symbian s60 game example - 2D Maze - demonstrates the use of SDL library for Symbian s60 developed by Markus Mertama. The app.  also  implement accelerometer with SDL library.
